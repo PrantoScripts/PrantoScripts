@@ -2,7 +2,7 @@
 
   <!-- Typing SVG Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abu+Sayeed+Pranto;Full-Stack+Web+Developer+%F0%9F%92%BB;Laravel+%7C+React.js+Enthusiast+%E2%9A%A1;RESTful+API+Architect+%F0%9F%94%97;Building+Scalable+Web+Solutions..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Abu+Sayeed+Pranto;Full-Stack+Web+Developer+%F0%9F%92%BB;Laravel+%7C+React.js+Enthusiast+%E2%9A%A1;RESTful+API+Architect+%F0%9F%94%97;Building+Scalable+Web+Solutions" alt="Typing SVG" />
   </a>
 
   <!-- Social & Contact Badges -->

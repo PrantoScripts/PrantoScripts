@@ -28,7 +28,7 @@
 
 > **"Code is poetry written in logic — and I love writing both."**
 
-I'm ** Abu Sayeed Pranto**, a passionate **Full-Stack Web Developer** with over **2 years of hands-on experience** building Windows & Web applications, ERP systems, and scalable platforms. I'm a proud recipient of the **IsDB-BISEW IT Scholarship (WDPF)** , where I mastered modern stacks like Laravel, React, Vue, and WordPress.
+I'm **Abu Sayeed Pranto**, a passionate **Full-Stack Web Developer** with over **2 years of hands-on experience** building Windows & Web applications, ERP systems, and scalable platforms. I'm a proud recipient of the **IsDB-BISEW IT Scholarship (WDPF)** , where I mastered modern stacks like Laravel, React, Vue, and WordPress.
 
 My background in **English Literature** (BA & MA from University of Dhaka) gives me a unique edge — I blend technical precision with creative clarity, ensuring clean code and even cleaner communication.
 

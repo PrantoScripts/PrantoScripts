@@ -2,7 +2,7 @@
 
   <!-- Typing SVG Header – Modern & Eye-catching -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+MD+Abu+Sayeed+Pranto;Full-Stack+Web+Developer+%F0%9F%92%BB;Laravel+%7C+React+%7C+PHP+Enthusiast;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+new+opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=32&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abu+Sayeed+Pranto;Full-Stack+Web+Developer+%F0%9F%92%BB;Laravel+%7C+React+%7C+PHP+Enthusiast;Building+Scalable+Web+Apps+%F0%9F%9A%80;Open+to+new+opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
 
   <!-- Social & Contact Badges -->

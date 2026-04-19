@@ -101,12 +101,12 @@ My background in **English Literature** (BA & MA from University of Dhaka) gives
 
 ### 🎓 Education
 
-| **Degree** | **Major** | **Institution** | **Year** |
-| :--- | :--- | :--- | :--- |
-| **Master of Arts (MA)** | English | University of Dhaka | Appeared 2024 |
-| **Bachelor of Arts (BA)** | English | University of Dhaka | 2022 |
-| **Higher Secondary (HSC)** | Science | Mohammadpur Model School & College | 2018 |
-| **Secondary School (SSC)** | Science | Mohammadpur Govt. High School | 2016 |
+| **Degree** | **Major** | **Year** |
+| :--- | :--- | :--- |
+| **Master of Arts (MA)** | English | Appeared 2024 |
+| **Bachelor of Arts (BA)** | English | 2022 |
+| **Higher Secondary (HSC)** | Science | 2018 |
+| **Secondary School (SSC)** | Science | 2016 |
 
 ---
 

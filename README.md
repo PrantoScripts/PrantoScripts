@@ -27,7 +27,7 @@
 
 I am **Abu Sayeed Pranto** – a detail-oriented **Full Stack Web Developer** with hands‑on experience at **Intellect Software Ltd**. I specialize in **PHP, Laravel, React.js, and MySQL**, building robust web applications, RESTful APIs, and responsive frontends.
 
-- 🎓 **Background**: BA in English (University of Dhaka) + IsDB-BISEW Web Development Program (2025–26)
+- 🎓 **Background**: BA in English + IsDB-BISEW Web Development Program (2025–26)
 - 💼 **Current Role**: Trainee Programmer @ Intellect Software Ltd (0.8 yrs experience)
 - 🔭 **Working on**: Enterprise ERP systems (Hajj Management, Restaurant Management)
 - 🌱 **Learning**: Advanced Vue.js & Node.js integration
